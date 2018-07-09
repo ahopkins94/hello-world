@@ -1,2 +1,2 @@
 # hello-world
-github guide hello world project
+learning ruby at the moment!
